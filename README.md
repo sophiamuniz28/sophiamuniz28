@@ -1,6 +1,6 @@
 # Olá! Eu sou a Sophia Muniz 👋
 
-![Banner animado]([https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tqN3EwMzFwZHd1NjFjcXZubXp3c2xkNWtxbHluamdjYzd5dmx5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGhTPVMgzLv7s2TOE6/giphy.gif))
+(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tqN3EwMzFwZHd1NjFjcXZubXp3c2xkNWtxbHluamdjYzd5dmx5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGhTPVMgzLv7s2TOE6/giphy.gif)
 
 Sou uma **estudante e desenvolvedora iniciante em Tecnologia da Informação**, apaixonada por aprender, criar projetos e evoluir a cada linha de código.  
 
