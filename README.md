@@ -1,8 +1,5 @@
 # Olá! Eu sou a Sophia Muniz 👋
 
-![Snoopy animado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFvdTFiaDFqNjdrdnh3eGJmYTF6MzZnemZ4aXU5dnl2Z3Q0aHozMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NjsWxuOQpLwa7xY4Lp/giphy.gif)
-
-
 
 Sou uma **estudante e desenvolvedora iniciante em Tecnologia da Informação**, apaixonada por aprender, criar projetos e evoluir a cada linha de código.  
 
@@ -55,3 +52,7 @@ Busco minha **primeira oportunidade profissional na área de TI**, mostrando ded
 ### ✨ Um toque pessoal
 
 "Mesmo iniciante, com dedicação e curiosidade é possível construir projetos incríveis!" 💖
+
+![Snoopy animado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFvdTFiaDFqNjdrdnh3eGJmYTF6MzZnemZ4aXU5dnl2Z3Q0aHozMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NjsWxuOQpLwa7xY4Lp/giphy.gif)
+
+
