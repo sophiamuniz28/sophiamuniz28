@@ -42,13 +42,6 @@ Busco minha **primeira oportunidade profissional na área de TI**, mostrando ded
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiamuniz28&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiamuniz28&layout=compact&theme=radical)
-
----
-
 ### ✨ Um toque pessoal
 
 "Mesmo iniciante, com dedicação e curiosidade é possível construir projetos incríveis!" 💖
